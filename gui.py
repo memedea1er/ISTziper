@@ -40,7 +40,7 @@ class MainApp(QMainWindow):
         self.setGeometry(100, 100, 300, 200)
 
         # Установка иконки приложения
-        self.setWindowIcon(QIcon('1234.png'))
+        self.setWindowIcon(QIcon('12345.png'))
         self.setWindowTitle("ISTziper")
         self.setGeometry(100, 100, 300, 200)
 
